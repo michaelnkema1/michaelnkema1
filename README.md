@@ -22,7 +22,7 @@
 <a href="https://twitter.com/mykel_nk11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mykel_nk11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michael nkema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael nkema" height="30" width="40" /></a>
 <a href="https://instagram.com/myke_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myke_codes" height="30" width="40" /></a>
-<a href="https://[hashnode.com/mykecodes](https://hashnode.com/@Mikecodes)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="mykecodes" height="30" width="40" /></a>
+<a href="https://https://hashnode.com/@Mikecodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="mykecodes" height="30" width="40" /></a>
 <a href="https://medium.com/michaelnkema1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="michaelnkema1" height="30" width="40" /></a>
 </p>
 
