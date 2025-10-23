@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mykel_nk11" target="blank"><img src="https://img.shields.io/twitter/follow/mykel_nk11?logo=twitter&style=for-the-badge" alt="mykel_nk11" /></a> </p>
 
-- 🔭 I’m currently working on **an e-commerce website**
+- 🔭 I’m currently working on **none**
 
 - 🌱 I’m currently learning **C++**
 
