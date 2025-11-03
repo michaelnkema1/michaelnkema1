@@ -5,17 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/mykel_nk11" target="blank"><img src="https://img.shields.io/twitter/follow/mykel_nk11?logo=twitter&style=for-the-badge" alt="mykel_nk11" /></a> </p>
 
-- 🔭 I’m currently working on **none**
-
-- 🌱 I’m currently learning **C++**
-
-- 👯 I’m looking to collaborate on **a robotics project**
 
 - 👨‍💻 All of my projects are available at [https://mykecodes-ck26.vercel.app/](https://mykecodes-ck26.vercel.app/)]()
-
-- 💬 Ask me about **python, javascript and C**
-
-- 💬 How to reach me **nkemamichael1105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
