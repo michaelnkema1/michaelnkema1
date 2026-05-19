@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/mykel_nk11" target="blank"><img src="https://img.shields.io/twitter/follow/mykel_nk11?logo=twitter&style=for-the-badge" alt="mykel_nk11" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://mykecodes-ck26.vercel.app/](https://mykecodes-ck26.vercel.app/)]()
+- 👨‍💻 All of my works are available at [https://mykecodes2026.vercel.app/](https://mykecodes2026.vercel.app/)]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
