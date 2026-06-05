@@ -1,10 +1,10 @@
+<img src="probanner.png" alt="A descriptive text about the image">
 <h1 align="center">Hi 👋, I'm Michael Nkema</h1>
 <h3 align="center">A passionate developer from Ghana</h3>
 
 <img align="right" width="300" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_items_boosted&w=740" alt="Coding">
 
 <p align="left"> <a href="https://twitter.com/mykel_nk11" target="blank"><img src="https://img.shields.io/twitter/follow/mykel_nk11?logo=twitter&style=for-the-badge" alt="mykel_nk11" /></a> </p>
-
 
 - 👨‍💻 All of my works are available at [https://mykecodes2026.vercel.app/](https://mykecodes2026.vercel.app/)]()
 
