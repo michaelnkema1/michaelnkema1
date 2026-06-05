@@ -1,4 +1,4 @@
-<img src="probanner.png" alt="A descriptive text about the image">
+<img src="p-banner.png" alt="A descriptive text about the image">
 <h1 align="center">Hi 👋, I'm Michael Nkema</h1>
 <h3 align="center">A passionate developer from Ghana</h3>
 
