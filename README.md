@@ -1,7 +1,8 @@
 <img src="p-banner.jpg" alt="A descriptive text about the image">
-# Hi 👋, I'm Michael Nkema
 
-### Building at the intersection of AI, Robotics, and Software Engineering
+### Hi 👋, I'm Michael
+
+## A multifaceted developer from Ghana
 
 **Computer Engineering Student • Robotics Coach • AI Builder**
 
