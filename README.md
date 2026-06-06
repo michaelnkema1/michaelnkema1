@@ -116,12 +116,6 @@ Tools        Git • Docker • Linux
 </a>
 </p>
 
-## 🌱 Currently Learning
-
-- Machine Learning Engineering
-- Computer Vision
-- Autonomous Robotics
-
 ## 🌍 Connect With Me
 
 <p align="left">
@@ -149,11 +143,6 @@ Tools        Git • Docker • Linux
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=michaelnkema1&show_icons=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelnkema1&layout=compact&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelnkema1&hide_border=true"/>
