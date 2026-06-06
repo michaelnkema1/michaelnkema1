@@ -20,8 +20,7 @@ My interests sit between **Artificial Intelligence, Robotics, and Full-Stack Dev
 ## 🔨 Currently Building
 
 - 🎯 **Absense** — Smart attendance system using facial recognition, GPS, and QR verification.
-- 📖 **MC-Suggests** — Machine learning-powered manhwa recommendation system.
-- 🤖 Autonomous robotics projects with ROS.
+- 🤖 Autonomous robotics projects
 - 🌐 Full-stack applications with React and FastAPI.
 
 ---
@@ -161,7 +160,7 @@ Tools        Git • Docker • Linux
 
 ---
 
-> _Building intelligent systems, one bug at a time._
+> _mykecodes_
 
 <!--
 **michaelnkema1/michaelnkema1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
