@@ -26,7 +26,7 @@ My interests sit between **Artificial Intelligence, Robotics, and Full-Stack Dev
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ```text
 AI / ML      Python • TensorFlow • NLP • CNNs • Gemini API
@@ -116,7 +116,7 @@ Tools        Git • Docker • Linux
 </a>
 </p>
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://twitter.com/mykel_nk11" target="blank">
