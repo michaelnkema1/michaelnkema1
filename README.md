@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Computer Engineering student who enjoys building things that **think, move, and solve problems**.
 
@@ -18,11 +18,11 @@ My interests sit between **Artificial Intelligence, Robotics, and Full-Stack Dev
 
 ---
 
-## 🔨 Currently Building
+## Currently Building
 
-- 🎯 **Absense** — Smart attendance system using facial recognition, GPS, and QR verification.
-- 🤖 Autonomous robotics projects
-- 🌐 Full-stack applications with React and FastAPI.
+- **Absense** — Smart attendance system using facial recognition, GPS, and QR verification.
+- Autonomous robotics projects
+- Full-stack applications with React and FastAPI.
 
 ---
 
@@ -142,7 +142,7 @@ Tools        Git • Docker • Linux
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelnkema1&hide_border=true"/>
