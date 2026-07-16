@@ -19,7 +19,7 @@ My interests sit between **Artificial Intelligence, Robotics, and Full-Stack Dev
 ---
 
 ## Currently Building
-
+- **Find** - a craftsman finding man using gps, and ratings
 - **Absense** — Smart attendance system using facial recognition, GPS, and QR verification.
 - Autonomous robotics projects
 - Full-stack applications with React and FastAPI.
