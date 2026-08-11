@@ -4,7 +4,7 @@
 
 ## A multifaceted developer from Ghana
 
-**Computer Engineering Student • Robotics Coach **
+**Computer Engineering Student • Robotics Coach**
 
 [Portfolio](https://mykecodes2026.vercel.app/) • [LinkedIn](https://linkedin.com/in/michael-nkema) • [Hashnode](https://hashnode.com/@Mikecodes)
 
