@@ -4,7 +4,7 @@
 
 ## A multifaceted developer from Ghana
 
-**Computer Engineering Student • Robotics Coach • AI Builder**
+**Computer Engineering Student • Robotics Coach **
 
 [Portfolio](https://mykecodes2026.vercel.app/) • [LinkedIn](https://linkedin.com/in/michael-nkema) • [Hashnode](https://hashnode.com/@Mikecodes)
 
@@ -14,7 +14,7 @@
 
 I'm a Computer Engineering student who enjoys building things that **think, move, and solve problems**.
 
-My interests sit between **Artificial Intelligence, Robotics, and Full-Stack Development**. Whether it's training a recommendation model, building autonomous robots with ROS, or developing software used by real people, I enjoy turning ideas into working systems.
+My interests sit between **Artificial Intelligence, Robotics, and Web Development**. Whether it's training a recommendation model, building autonomous robots with ROS, or developing software used by real people, I enjoy turning ideas into working systems.
 
 ---
 
