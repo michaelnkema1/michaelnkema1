@@ -28,15 +28,15 @@ My interests sit between **Artificial Intelligence, Robotics, and Web Developmen
 
 ## Tech Stack
 
-​```text
-Languages    Python • C++ • C • JavaScript • SQL
-AI / ML      TensorFlow/Keras • PyTorch • Scikit-learn • Pandas • NumPy • Jupyter • NLP • CNNs • Computer Vision • HugginFace • Gemini API
-Frontend     React • Next.js • React Native • JavaScript • TailwindCSS
-Backend      FastAPI • Django • Flask • REST API Design • OAuth
-Databases    PostgreSQL (query optimization & indexing) • Redis (caching)
-Robotics     ROS • Gazebo • RViz • Arduino
-Tools        Git • Docker • CI/CD • Linux • Postman
-​```
+```text
+Languages    Python, C++, C, JavaScript, SQL
+AI / ML      TensorFlow/Keras, PyTorch, Scikit-learn, Pandas, NumPy, Jupyter, NLP, CNNs, Computer Vision, Hugging Face, Gemini API
+Frontend     React, Next.js, React Native, TailwindCSS
+Backend      FastAPI, Django, Flask, REST API Design, OAuth
+Databases    PostgreSQL (query optimization and indexing), Redis (caching)
+Robotics     ROS, Gazebo, RViz, Arduino
+Tools        Git, Docker, CI/CD, Linux, Postman
+```
 
 <h3 align="left">Languages and Tools:</h3>
 
