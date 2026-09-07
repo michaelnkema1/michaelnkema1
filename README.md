@@ -4,36 +4,47 @@
 
 ## A multifaceted developer from Ghana
 
-**Computer Engineering Student • Robotics Coach**
+**Computer Engineering Student • Robotics Coach • Full-Stack Developer**
 
-[Portfolio](https://mykecodes2026.vercel.app/) • [LinkedIn](https://linkedin.com/in/michael-nkema) • [Hashnode](https://hashnode.com/@Mikecodes)
+[Portfolio](https://mykecodes2026.vercel.app/) • [LinkedIn](https://linkedin.com/in/michael-nkema-a7586a222) • [Hashnode](https://hashnode.com/@Mikecodes)
 
 ---
 
 ## About Me
 
-I'm a Computer Engineering student who enjoys building things that **think, move, and solve problems**.
+I'm a Computer Engineering student at KNUST (Kumasi, Ghana) who enjoys building things that **think, move, and solve problems**.
 
-My interests sit between **Artificial Intelligence, Robotics, and Web Development**. Whether it's training a recommendation model, building autonomous robots with ROS, or developing software used by real people, I enjoy turning ideas into working systems.
+My interests sit between **Artificial Intelligence, Robotics, and Web Development**. I've built a PyTorch CNN for crop-disease detection during an internship at Ghana's Council for Scientific and Industrial Research (CSIR), coached a robotics team to an international 1st-place finish, and shipped several full-stack apps end to end — from schema design to deployment.
+
+---
+
+## Experience
+
+- **Intern, Council for Scientific and Industrial Research (CSIR)** — Built the data preprocessing pipeline and model architecture for a PyTorch CNN reaching 80% accuracy on 1,000+ leafy-crop-disease images, training on Colab and deploying to Hugging Face Spaces.
+- **Robotics Trainer, Mikrobot Academy** — Coached a competitive robotics team to a 1st-place international finish and redesigned the training curriculum for 200+ students, cutting course completion time by 30%.
+- **Web Developer, IEEE IMS Chapter (KNUST)** — Maintain the chapter's website in React/Next.js, serving 250+ students during peak registration periods.
 
 ---
 
 ## Currently Building
-- **Find** - a craftsman finding man using gps, and ratings
-- **Absense** — Smart attendance system using facial recognition, GPS, and QR verification.
-- Autonomous robotics projects
-- Full-stack applications with React and FastAPI.
+- **Graide** — PostgreSQL + FastAPI backend with Redis caching and Gemini API-powered performance summaries, handling ~5,000 student records for 500–700 students.
+- **ChickOrder** — Full-stack ordering system (FastAPI + React.js) with payment gateway integration, cutting in-person wait times by an estimated 70%.
+- **Absense** — Smart, multi-layered attendance system combining facial recognition, GPS, and QR verification.
+- **MC-Suggests** — Recommendation engine combining TF-IDF with a Hugging Face sentence-transformer, validated at a 90% match rate.
+- **Community Pulse** — LLM-powered civic reporting platform (Gemini API) with GPS-based routing, built at a Cursor hackathon.
 
 ---
 
 ## Tech Stack
 
 ```text
-AI / ML      Python • TensorFlow • NLP • CNNs • Gemini API
-Frontend     React • Next.js • JavaScript • TailwindCSS
-Backend      FastAPI • Django • Flask
-Robotics     ROS • Gazebo • RViz • Arduino • C/C++
-Tools        Git • Docker • Linux
+Languages     Python • C++ • JavaScript • SQL • C
+Backend       FastAPI • Django • Flask • REST API Design • OAuth
+Databases     PostgreSQL (query optimization & indexing) • Redis (caching)
+Frontend      React.js • Next.js • React Native
+AI / ML       PyTorch • TensorFlow/Keras • Scikit-learn • Pandas • NumPy • Jupyter • Hugging Face • Gemini API • Computer Vision
+Robotics      ROS • Gazebo • RViz • Arduino
+Tools         Git • Docker • CI/CD • Linux • Postman
 ```
 
 <h3 align="left">Languages and Tools:</h3>
@@ -142,6 +153,12 @@ Tools        Git • Docker • Linux
 
 ---
 
+## Awards
+
+- 🥇 3× 1st Place, national and international robotics competitions (RoboFest, RiSE) — 2020–2023
+
+---
+
 ## GitHub Stats
 
 <p align="center">
@@ -151,18 +168,3 @@ Tools        Git • Docker • Linux
 ---
 
 > _mykecodes_
-
-<!--
-**michaelnkema1/michaelnkema1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
