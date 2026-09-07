@@ -30,7 +30,7 @@ My interests sit between **Artificial Intelligence, Robotics, and Web Developmen
 
 ​```text
 Languages    Python • C++ • C • JavaScript • SQL
-AI / ML      TensorFlow/Keras • PyTorch • Scikit-learn • Pandas • NumPy • Jupyter • NLP • CNNs • Computer Vision • Statistical Modeling • Hugging Face • Gemini API
+AI / ML      TensorFlow/Keras • PyTorch • Scikit-learn • Pandas • NumPy • Jupyter • NLP • CNNs • Computer Vision • HugginFace • Gemini API
 Frontend     React • Next.js • React Native • JavaScript • TailwindCSS
 Backend      FastAPI • Django • Flask • REST API Design • OAuth
 Databases    PostgreSQL (query optimization & indexing) • Redis (caching)
